@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357456522393",
+    "project_id": "pfa-tic-app",
+    "storage_bucket": "pfa-tic-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357456522393:android:2ca4d2d99fde9a6c145c08",
+        "android_client_info": {
+          "package_name": "com.example.pfa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMZMpLupeslVzA6Tn5dPC2l950qJB-WV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
