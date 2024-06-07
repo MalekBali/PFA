@@ -5,8 +5,12 @@ import 'package:pfa/pages/home.page.dart';
 import 'package:pfa/pages/scan.page.dart';
 import 'package:pfa/pages/uploadPDF.page.dart';
 import 'package:pfa/splash.dart';
+import 'authentification/login.page.dart';
 import 'authentification/signup.page.dart';
 import 'firebase_options.dart';
+import 'pages/home.page.dart';
+import 'pages/scan.page.dart';
+import 'pages/uploadPDF.page.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

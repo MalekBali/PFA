@@ -1,0 +1,7 @@
+{
+  "language": "fra",
+  "configs": {
+    "tessdataPath": "assets/tessdata"
+  },
+  "files": ["fra.traineddata"]
+}
